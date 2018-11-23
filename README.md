@@ -1,4 +1,5 @@
 # Laravel-Japanese-Language-fileset
+※下位バージョン（5.6/5.5）の言語ファイルセットはブランチを切り替える事で入手可能です。
 ## Laravel5.7 日本語言語ファイルセット
 1. resources/lang/ja の設置
 
