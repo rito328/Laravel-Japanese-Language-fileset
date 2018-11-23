@@ -1,6 +1,5 @@
-# Laravel5.5-Japanese-Language-fileset
-5.6と5.5の言語ファイルセットは同じ構成なので、両バージョンで使えます。
-## Laravel5.6/5.5 日本語言語ファイルセット
+# Laravel-Japanese-Language-fileset
+## Laravel5.7 日本語言語ファイルセット
 1. resources/lang/ja の設置
 
 resources/lang/ja ディレクトリを作成し、その中にこれらのファイルを設置してください。
@@ -21,6 +20,8 @@ git submodule add https://github.com/rito-nishino/Laravel5.5-Japanese-Language-f
 
 Ritolabo https://www.ritolab.com/
 
+Laravelインストール後の初期設定と入門
+https://www.ritolab.com/entry/48  
 Laravelのvalidationメソッドでバリデーションを実装する  
 https://www.ritolab.com/entry/40  
 Laravelのフォームリクエストクラスでバリデーションロジックをコントローラから分離する  
